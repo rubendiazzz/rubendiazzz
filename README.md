@@ -1,4 +1,5 @@
-![Banner](https://github.com/rubendiazzz/rubendiazzz/assets/89214621/565e5fef-196b-4ac5-b592-c7ca8aec3e80)
+![BANNER](https://github.com/rubendiazzz/rubendiazzz/assets/89214621/83138cde-a69d-4cd9-a863-0727157407fc)
+
 
 👋 ¡Hola, soy Rubén!
 👨‍💻 Sobre mí
