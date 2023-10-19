@@ -18,15 +18,6 @@
     </p>
     <img src="https://komarev.com/ghpvc/?username=YourGithubUsername" alt="Visitas"/>
 </div>
-
-<div align="center">
-    <h1>Estadísticas de GitHub</h1>
-    <p align="left">
-        Valoró las tecnologías emergentes y la eficiencia en el desarrollo. A continuación, se presentan algunas de mis estadísticas de GitHub:
-    </p>
-    <!-- Agregue sus propias estadísticas de GitHub aquí -->
-</div>
-
 <div align="center">
     <h1>Habilidades Técnicas</h1>
     <div align="left">
