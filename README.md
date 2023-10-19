@@ -3,32 +3,27 @@
 
 👋 ¡Hola, soy Rubén!
 
+"Asegurando el ciberespacio, un byte a la vez."
+
 👨‍💻 Sobre mí
+📍 Ubicación: España
+🎓 Especialización: Desarrollo Web, Ciberseguridad, Desarrollo de Juegos
+🎂 Edad: 19 años
+🏀 Pasatiempos: Baloncesto
 
-Soy un desarrollador apasionado especializado en Desarrollo Web, Ciberseguridad, y Desarrollo de Juegos. Resido en España y tengo 19 años.
-
-Lenguajes preferidos: C, C++, JavaScript, CSS
-
-Pasatiempos: Me encanta jugar al baloncesto en mi tiempo libre.
-
-Objetivos profesionales: Aspirar a ser un ingeniero en ciberseguridad y obtener un rol de programación en una empresa de alta reputación.
+🎯 Objetivos Profesionales
+Aspirar a ser un ingeniero en ciberseguridad y obtener un rol de programación en una empresa de alta reputación.
 
 🛠 Habilidades Técnicas
-
-Desarrollo Web: HTML, CSS, JavaScript, React
-
-Ciberseguridad: Análisis de vulnerabilidades, Pentesting, Seguridad de red
-
-Desarrollo de Juegos: Unity, C#
-
-Lenguajes de Programación: C, C++, JavaScript
-
+Desarrollo Web: HTML (Experto), CSS (Avanzado), JavaScript (Experto), React (Intermedio)
+Ciberseguridad: Análisis de vulnerabilidades (Nessus, Wireshark), Pentesting (Metasploit), Seguridad de red (Firewall, IDS/IPS)
+Desarrollo de Juegos: Unity (Intermedio), C# (Avanzado)
+Lenguajes de Programación: C (Avanzado), C++ (Avanzado), JavaScript (Experto)
 📖 Proyectos Recientes
-Proyecto de Ciberseguridad: Desarrollo de una herramienta de análisis de vulnerabilidades.
-Proyecto de Juego: Un juego de plataformas en 2D creado con Unity.
-Desarrollo Web: Un sitio web de portafolio para mostrar mis habilidades y proyectos.
-
+Herramienta de Análisis de Vulnerabilidades: Identificación y mitigación de vulnerabilidades en una red empresarial.
+Juego de Plataformas en 2D: Desarrollado con Unity, superando desafíos en la generación de niveles.
+Sitio Web de Portafolio: Un escaparate de mis habilidades y proyectos.
 📫 Contáctame
-
 LinkedIn: www.linkedin.com/in/ruubendiazz
 Correo: rubendfraga@gmail.com
+👇 Siéntete libre de contactarme para cualquier colaboración o consulta.
