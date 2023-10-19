@@ -4,6 +4,7 @@
     </p>
     <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
+        <img src="https://img.shields.io/badge/C2-🇬🇧-%23aaaaaa.svg?style=flat" alt="Segundo Idioma"/>
     </p>
     <div align="left">
         <p>
