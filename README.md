@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://github.com/rubendiazzz/rubendiazzz/assets/89214621/83138cde-a69d-4cd9-a863-0727157407fc" alt="Banner" />
+        <img src="https://i.imgur.com/m0YHjBC.jpg" alt="Banner" />
     </p>
     <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
