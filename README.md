@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Banner](https://imgur.com/7l42Oce)
+  ![Banner](https://i.imgur.com/euNxXiN.png)
 
   ![Idioma nativo](https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat)
   ![Segundo Idioma](https://img.shields.io/badge/C2-🇬🇧-%23aaaaaa.svg?style=flat)
