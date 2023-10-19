@@ -1,6 +1,6 @@
 <div align="center">
     <p>
-        <img src="https://i.imgur.com/m0YHjBC.jpg" alt="Banner" />
+        <img src="https://i.imgur.com/7l42Oce.jpg" alt="Banner" />
     </p>
     <p>
         <img src="https://img.shields.io/badge/Nat-🇪🇸-%23aaaaaa.svg?style=flat" alt="Idioma nativo"/>
