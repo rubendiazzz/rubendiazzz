@@ -7,7 +7,7 @@
 
 </div>
 
-## 🛡️ STRLEN: Aspiring Cybersecurity Engineer & Software Developer
+## 🛡️ Rubén Díaz: Aspiring Cybersecurity Engineer & Software Developer
 
 <span align="left">
 
