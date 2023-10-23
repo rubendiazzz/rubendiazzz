@@ -11,7 +11,7 @@
 
 <span align="left">
 
-Greetings, I am **STRLEN**, a 19-year-old developer with a keen interest in **cybersecurity**, **web development**, and **game development**. I reside in Spain.
+Greetings, I am **Ruben Diaz**, a 19-year-old developer with a keen interest in **cybersecurity**, **web development**, and **game development**. I reside in Spain.
 
 In addition to my professional endeavors, I relish playing **basketball** during my leisure time.
 
