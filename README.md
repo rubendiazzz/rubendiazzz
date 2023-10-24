@@ -69,25 +69,9 @@ I am passionate about cybersecurity and have worked on several projects that aim
 
 </span>
 
-- **Project Name 1**: Description of Project 1 with technologies used.
-- **Project Name 2**: Description of Project 2 with technologies used.
+- **Project Name 1**: JunctionX Malaga Cybersecurity project. Improvement of Examfy security when loosing the track of links using DNNW.
 
-[View more cybersecurity projects →](https://github.com/YourGithubUsername?tab=repositories&q=&type=&language=&sort=)
-
----
-
-## 🎮 Game Development Portfolio
-
-<span align="left">
-
-Creating immersive gaming experiences is a thrilling endeavor. Here are some of the game development projects I am proud of:
-
-</span>
-
-- **Project Name 1**: Description of Project 1 with technologies used.
-- **Project Name 2**: Description of Project 2 with technologies used.
-
-[View more game development projects →](https://github.com/YourGithubUsername?tab=repositories&q=&type=&language=&sort=)
+[View more cybersecurity projects →](https://github.com/rubendiazzz?tab=repositories&q=&type=&language=&sort=)
 
 ---
 
@@ -99,7 +83,7 @@ I am dedicated to continuous learning and professional development to stay updat
 
 </span>
 
-- **Certification Name 1**: Description and issuing authority.
-- **Certification Name 2**: Description and issuing authority.
+- **C Programming Course on Codecademy**: Learn C programming language from 0 to medium level.
+- **C++ Programming Course on Codecademy**: Learn C++ programming language from 0 to medium level.
 
 </div>
