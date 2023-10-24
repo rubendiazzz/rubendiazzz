@@ -48,3 +48,58 @@ You may reach out to me through the following channels:
 - **Email**: [rubendfraga@gmail.com](mailto:rubendfraga@gmail.com)
 
 </div>
+
+## 📈 GitHub Statistics
+
+<span align="left">
+
+I believe in the power of open source and actively contribute to the community. Here are some of my GitHub statistics:
+
+</span>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical)
+
+---
+
+## 🔐 Cybersecurity Projects
+
+<span align="left">
+
+I am passionate about cybersecurity and have worked on several projects that aim to enhance network and system security. Some of my notable projects include:
+
+</span>
+
+- **Project Name 1**: Description of Project 1 with technologies used.
+- **Project Name 2**: Description of Project 2 with technologies used.
+
+[View more cybersecurity projects →](https://github.com/YourGithubUsername?tab=repositories&q=&type=&language=&sort=)
+
+---
+
+## 🎮 Game Development Portfolio
+
+<span align="left">
+
+Creating immersive gaming experiences is a thrilling endeavor. Here are some of the game development projects I am proud of:
+
+</span>
+
+- **Project Name 1**: Description of Project 1 with technologies used.
+- **Project Name 2**: Description of Project 2 with technologies used.
+
+[View more game development projects →](https://github.com/YourGithubUsername?tab=repositories&q=&type=&language=&sort=)
+
+---
+
+## 📚 Continuous Learning
+
+<span align="left">
+
+I am dedicated to continuous learning and professional development to stay updated with the latest industry trends and technologies. My certifications include:
+
+</span>
+
+- **Certification Name 1**: Description and issuing authority.
+- **Certification Name 2**: Description and issuing authority.
+
+</div>
