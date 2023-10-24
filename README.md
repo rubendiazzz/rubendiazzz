@@ -57,7 +57,7 @@ I believe in the power of open source and actively contribute to the community. 
 
 </span>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=radical)
 
 ---
 
