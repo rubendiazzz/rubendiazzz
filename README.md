@@ -1,13 +1,15 @@
-# Hola, mi nombre es Ruben Diaz Fraga 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=300&vCenter=true&random=false&width=435&lines=Hey%2C+What's+up!;I'm+Rub%C3%A9n+D%C3%ADaz)](https://git.io/typing-svg)
+
 ### Web Developer, Cybersecurity Enthusiast & Game Developer
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/rubendiazzz?style=social)](https://twitter.com/rubendiazzz)
 ![GitHub Followers](https://img.shields.io/github/followers/rubendiazzz?style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/rubendiazzz?style=social)
+![Profile Views](https://img.shields.io/github/followers/rubendiazzz?label=Profile%20Views&style=social)
 
 Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad y Desarrollo de Juegos.
 
 ## :hammer_and_wrench: Habilidades:
+
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
@@ -41,7 +43,13 @@ Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Cibersegurid
 [![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=101010)]()
 [![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white&labelColor=101010)]()
 
+## Estadísticas de GitHub
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=dark)](https://github.com/rubendiazzz)
+
 ## :bookmark_tabs: Tabla de Contenidos de Proyectos
+
+![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge)
 
 | Proyecto                    | Descripción                                                                    | Trofeo                                                  |
 |-----------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------|
