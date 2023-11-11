@@ -2,11 +2,7 @@
 
 ### Web Developer, Cybersecurity Enthusiast & Game Developer
 
-![GitHub Followers](https://img.shields.io/github/followers/rubendiazzz?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/rubendiazzz?style=social)
-![Profile Views](https://img.shields.io/github/followers/rubendiazzz?label=Profile%20Views&style=social)
-
-Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad y Desarrollo de Juegos.
+Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad y Desarrollo de Juegos y estudiando en 42 Malaga | Fundación Telefónica.
 
 ## :hammer_and_wrench: Habilidades:
 
