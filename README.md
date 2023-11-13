@@ -2,7 +2,7 @@
 
 ### Web Developer, Cybersecurity Enthusiast & Game Developer
 
-Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad y Desarrollo de Juegos y estudiando en 42 Malaga | Fundación Telefónica.
+Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad, Desarrollo de Juegos, Dart y Flutter, y estudiando en 42 Malaga | Fundación Telefónica.
 
 ## :hammer_and_wrench: Habilidades:
 
@@ -10,6 +10,8 @@ Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Cibersegurid
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]()
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
