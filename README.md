@@ -322,3 +322,4 @@ This script generates git commits for past dates.
 - Update for 90 days ago
 - Update for 89 days ago
 - Update for 88 days ago
+- Update for 87 days ago
