@@ -4,6 +4,8 @@
 
 Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad, Desarrollo de Juegos, Dart y Flutter, y estudiando en 42 Malaga | Fundación Telefónica.
 
+[![rdiaz-fr's 42 stats](https://badge.mediaplus.ma/colorfulwaves/rdiaz-fr)](https://github.com/oakoudad/badge42)
+
 ## :hammer_and_wrench: Habilidades:
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
