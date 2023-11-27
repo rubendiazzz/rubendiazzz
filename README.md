@@ -47,6 +47,10 @@ Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Cibersegurid
 
 [![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=dark)](https://github.com/rubendiazzz)
 
+## Most used languages
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubendiazzz&layout=compact&theme=github_dark)
+
 ## :bookmark_tabs: Tabla de Contenidos de Proyectos
 
 ![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge)
