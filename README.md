@@ -57,11 +57,11 @@ Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Cibersegurid
 
 | Proyecto                    | Descripción                                                                    | Trofeo                                                  |
 |-----------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------|
-| [Libft](#libft)            | Una biblioteca comprensiva de C                                                | ![Grade](https://img.shields.io/badge/Grade-125/100-green?style=for-the-badge) |
-| [Printf](#printf)           | Implementación personalizada de la función printf en C                         | ![Grade](https://img.shields.io/badge/Grade-100/100-green?style=for-the-badge) |
-| [Get Next Line](#get-next-line) | Una función que lee líneas de un descriptor de archivo                     | ![Grade](https://img.shields.io/badge/Grade-125/100-green?style=for-the-badge) |
-| [Born2beRoot](#born2beroot) | Un proyecto de administración del sistema                                      | ![Grade](https://img.shields.io/badge/Grade-Pending-yellow?style=for-the-badge) |
-| [Pipex](#pipex)             | Un programa que simula la funcionalidad del comando de la shell pipeline       | ![Grade](https://img.shields.io/badge/Grade-Pending-yellow?style=for-the-badge) |
+| [Libft](https://github.com/rubendiazzz/libft)            | Una biblioteca comprensiva de C                                                | ![Grade](https://img.shields.io/badge/Grade-125/100-green?style=for-the-badge) |
+| [Printf](https://github.com/rubendiazzz/printf)           | Implementación personalizada de la función printf en C                         | ![Grade](https://img.shields.io/badge/Grade-100/100-green?style=for-the-badge) |
+| [Get Next Line](https://github.com/rubendiazzz/get-next-line) | Una función que lee líneas de un descriptor de archivo                     | ![Grade](https://img.shields.io/badge/Grade-125/100-green?style=for-the-badge) |
+| [Born2beRoot](https://github.com/rubendiazzz/born2beroot) | Un proyecto de administración del sistema                                      | ![Grade](https://img.shields.io/badge/Grade-Pending-yellow?style=for-the-badge) |
+| [Pipex](https://github.com/rubendiazzz/pipex)             | Un programa que simula la funcionalidad del comando de la shell pipeline       | ![Grade](https://img.shields.io/badge/Grade-Pending-yellow?style=for-the-badge) |
 
 ### Más detalles sobre los proyectos en las secciones a continuación...
 
