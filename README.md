@@ -16,19 +16,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Ruben Diaz from Galicia, Spain<br><br>- 🔭 I’m studying in 42 Malaga <br>- 📚 I'm currently learning C and Software Engineering<br>- ⚡ In my free time I usually play videogames and basketball</p>
+<p align="center">I'm Ruben Diaz from Galicia, Spain<br><br>- 🔭 I’m studying in 42 Malaga <br>- 📚 I'm currently learning C and Software Engineering<br>- ⚡ In my free time I usually play videogames and basketball</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
