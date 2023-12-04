@@ -70,8 +70,6 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rubendiazzz" alt="rubendiazzz" /></a> </p>
-
 <div align="center">
   <a href="http://www.linkedin.com/in/ruubendiazz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
