@@ -1,77 +1,90 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=300&vCenter=true&random=false&width=435&lines=Hey%2C+What's+up!;I'm+Rub%C3%A9n+D%C3%ADaz)](https://git.io/typing-svg)
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-### Web Developer, Cybersecurity Enthusiast & Game Developer
+###
 
-Actualmente estoy perfeccionando mis habilidades en Desarrollo Web, Ciberseguridad, Desarrollo de Juegos, Dart y Flutter, y estudiando en 42 Malaga | Fundación Telefónica.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 
-[![rdiaz-fr's 42 stats](https://badge.mediaplus.ma/colorfulwaves/rdiaz-fr)](https://github.com/oakoudad/badge42)
+###
 
-## :hammer_and_wrench: Habilidades:
+<h1 align="center">hey there 👋</h1>
 
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=101010)]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-</br>
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=101010)]()
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=101010)]()
-[![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white&labelColor=101010)]()
-[![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white&labelColor=101010)]()
-[![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white&labelColor=101010)]()
-[![Sketch](https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white&labelColor=101010)]()
-[![Procreate](https://img.shields.io/badge/Procreate-000000?style=for-the-badge&logo=procreate&logoColor=white&labelColor=101010)]()
-</br>
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white&labelColor=101010)]()
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=101010)]()
-[![Obsidian](https://img.shields.io/badge/Obsidian-4D4D4D?style=for-the-badge&logo=obsidian&logoColor=white&labelColor=101010)]()
-</br>
-[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=101010)]()
-[![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=101010)]()
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=101010)]()
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white&labelColor=101010)]()
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=101010)]()
-</br>
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
-</br>
-[![42](https://img.shields.io/badge/42-000000?style=for-the-badge&logo=42&logoColor=white&labelColor=101010)]()
-[![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white&labelColor=101010)]()
+###
 
-## Estadísticas de GitHub
+<h3 align="left">👩‍💻  About Me</h3>
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=dark)](https://github.com/rubendiazzz)
+###
 
-## Most used languages
+<p align="left">I'm Ruben Diaz from Galicia, Spain<br><br>- 🔭 I’m studying in 42 Malaga <br>- 📚 I'm currently learning C and Software Engineering<br>- ⚡ In my free time I usually play videogames and basketball</p>
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubendiazzz&layout=compact&theme=github_dark)
+###
 
-## :bookmark_tabs: Tabla de Contenidos de Proyectos
+<h3 align="left">🛠 Language and tools</h3>
 
-![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge)
+###
 
-| Proyecto                    | Descripción                                                                    | Trofeo                                                  |
-|-----------------------------|--------------------------------------------------------------------------------|---------------------------------------------------------|
-| [Libft](https://github.com/rubendiazzz/libft)            | Una biblioteca comprensiva de C                                                | ![Grade](https://img.shields.io/badge/Grade-125/100-green?style=for-the-badge) |
-| [Printf](https://github.com/rubendiazzz/printf)           | Implementación personalizada de la función printf en C                         | ![Grade](https://img.shields.io/badge/Grade-100/100-green?style=for-the-badge) |
-| [Get Next Line](https://github.com/rubendiazzz/get_next_line) | Una función que lee líneas de un descriptor de archivo                     | ![Grade](https://img.shields.io/badge/Grade-125/100-green?style=for-the-badge) |
-| [Born2beRoot](https://github.com/rubendiazzz/born2beroot) | Un proyecto de administración del sistema                                      | ![Grade](https://img.shields.io/badge/Grade-Pending-yellow?style=for-the-badge) |
-| [Pipex](https://github.com/rubendiazzz/pipex)             | Un programa que simula la funcionalidad del comando de la shell pipeline       | ![Grade](https://img.shields.io/badge/Grade-Pending-yellow?style=for-the-badge) |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+</div>
 
-### Más detalles sobre los proyectos en las secciones a continuación...
+###
 
-## Encuéntrame en:
+<h3 align="left">🔥   My Stats :</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruben_Diaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ruubendiazz)
-[![GitHub](https://img.shields.io/badge/GitHub-rubendiazzz-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/rubendiazzz)
-</br>
-[![Email](https://img.shields.io/badge/Email-rubendfraga@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:rubendfraga@gmail.com)
+###
 
-## Agradecimientos
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubendiazzz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Status" height="198" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubendiazzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=false&order=2" height="377" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rubendiazzz&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
 
-Gracias por visitar mi perfil de GitHub. ¡Colaboremos y aprendamos juntos! 🚀
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/rubendiazzz/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/ruubendiazz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href="rubendfraga@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
+  </a>
+</div>
+
+###
