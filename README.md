@@ -1,10 +1,24 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="200" src="https://500px.com/photo/1083182370/working-by-ruben-diaz-fraga"  />
 </div>
 
 ###
 
-<h1 align="center">hello there 👋</h1>
+<div align="center">
+  <a href="www.linkedin.com/in/ruubendiazz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=LinkedIn&color=0077B5&logoColor=white&labelColor=0023C3&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rubendiazzz.rubendiazzz&"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -12,70 +26,110 @@
 
 ###
 
-<p align="center">I'm Ruben Diaz from Galicia, Spain<br><br>- 🔭 I’m studying in 42 Malaga <br>- 📚 I'm currently learning C and Software Engineering<br>- ⚡ In my free time I usually play videogames and basketball</p>
+<h3 align="center">I'm Ruben Diaz from Lugo<br><br>- 🔭 I’m working as a freelance developer<br>- 📚 I'm currently learning software engineering at 42 Malaga as a student<br>- ⚡ In my free time I enjoy doing sports such as basketball and golf, as well as playing video-games</h3>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Design Tools</h3>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="40" alt="adobeaftereffects logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/badge/Adobe Audition-9999FF?logo=adobeaudition&logoColor=black&style=for-the-badge" height="40" alt="adobeaudition logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="40" alt="adobeillustrator logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="40" alt="adobepremierepro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="40" alt="aftereffects logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?logo=adobexd&logoColor=black&style=for-the-badge" height="40" alt="xd logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=black&style=for-the-badge" height="40" alt="blender logo"  />
+</div>
+
+###
+
+<h3 align="center">🛠 Languages & Tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=black&style=for-the-badge" height="40" alt="astro logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="40" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=for-the-badge" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=black&style=for-the-badge" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=black&style=for-the-badge" height="40" alt="powershell logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Unity-FFFFFF?logo=unity&logoColor=black&style=for-the-badge" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="40" alt="xcode logo"  />
+</div>
+
+###
+
+<h3 align="center">Communication & Others</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
 
 ###
@@ -85,27 +139,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubendiazzz&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1&custom_title=My%20Github%20Status" height="198" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rubendiazzz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=vue-dark&hide_border=false&order=2" height="377" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=rubendiazzz&locale=en&mode=weekly&theme=vue-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rubendiazzz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rubendiazzz/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="http://www.linkedin.com/in/ruubendiazz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/rubendiazzz/rubendiazzz/output/snake.svg" alt="Snake animation" />
 
 ###
