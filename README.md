@@ -381,3 +381,4 @@ This script generates git commits for past dates.
 - Update for 31 days ago
 - Update for 30 days ago
 - Update for 29 days ago
+- Update for 28 days ago
