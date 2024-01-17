@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://500px.com/photo/1083182370/working-by-ruben-diaz-fraga"  />
+  <img alt="Profile picture image" height="200" src=".img/profile_image.png"  />
 </div>
 
 ###
