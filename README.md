@@ -28,5 +28,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&locale=en" alt="rubendiazzz" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rubendiazzz&" alt="rubendiazzz" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubendiazzz&" alt="rubendiazzz" />
 </p>
