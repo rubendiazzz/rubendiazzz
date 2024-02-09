@@ -15,6 +15,7 @@ I've been learning code since I was 10 years old. I have always been so interest
 
 <a href="https://www.github.com/rubendiazzz" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-the-badge&color=ec4899&labelColor=22272e" /></a>
+<a href="https://wakatime.com/@018d8e18-1f1c-4c93-b0a9-4d781158d42b"><img src="https://wakatime.com/badge/user/018d8e18-1f1c-4c93-b0a9-4d781158d42b.svg" alt="Total time coded since Feb 9 2024" /></a>
 
 ### Skills
 
@@ -37,3 +38,6 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/rubendiazzz/42Cursus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rubendiazzz&repo=42Cursus&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/rubendiazzz/Porfolio.astro.dev" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rubendiazzz&repo=Porfolio.astro.dev&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<div align="center">
+</div>
