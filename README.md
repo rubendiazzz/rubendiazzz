@@ -30,7 +30,7 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <!--START_SECTION:waka-->
 
 ```c
-From: 08 February 2024 - To: 09 February 2024
+From: 02 February 2024 - To: 09 February 2024
 
 Total Time: 0 secs
 
