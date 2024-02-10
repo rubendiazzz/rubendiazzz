@@ -25,6 +25,4 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
   </a>
 
-  # Here is a quote for you
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" />
 </div>
