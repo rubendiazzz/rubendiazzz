@@ -30,6 +30,14 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 # Wakatime
 <!--START_SECTION:waka-->
 
+```rust
+From: 08 February 2024 - To: 09 February 2024
+
+Total Time: 0 secs
+
+Makefile   0 secs          >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 # My Daily.dev Card
