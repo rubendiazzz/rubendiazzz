@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 
 # My Daily.dev Card
 
-<a href="https://app.daily.dev/ruubendiazz"><img height=450 width=350 src="https://api.daily.dev/devcards/dc8711168514462184bbcb93ca19be76.png?r=n5x" width="400" alt="Ruben Diaz Fraga's Dev Card"/></a>
+<a href="https://app.daily.dev/ruubendiazz"><img src="https://api.daily.dev/devcards/dc8711168514462184bbcb93ca19be76.png?r=n5x" width="400" alt="Ruben Diaz Fraga's Dev Card"/></a>
 
 
 </div>
