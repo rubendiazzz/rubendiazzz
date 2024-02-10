@@ -1,4 +1,7 @@
 <div align="center">
+	<img src="./.img/yo_github_readme.png" alt="Rubén Díaz" width="100%" height="auto" />
+	# Hi there, I'm Rubén Díaz 👋
+
   Web Developer | Graphic Designer
   I've been learning programming since I was 10 years old. I have always been so interested on how programs were made, mostly games at the beginning. Then I just kept messing with things around until I made it my career.
   <br>
