@@ -25,4 +25,9 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
   </a>
 
+# My Daily.dev Card
+
+<a href="https://app.daily.dev/ruubendiazz"><img height=450 width=350 src="https://api.daily.dev/devcards/dc8711168514462184bbcb93ca19be76.png?r=n5x" width="400" alt="Ruben Diaz Fraga's Dev Card"/></a>
+
+
 </div>
