@@ -26,5 +26,5 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
   </a>
 
   # Here is a quote for you
-  <img height=auto align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" />
+  <img height="auto" width="auto" align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" />
 </div>
