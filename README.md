@@ -27,6 +27,11 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
   </a>
 
+# Wakatime
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 # My Daily.dev Card
 
 <a href="https://app.daily.dev/ruubendiazz"><img src="https://github.com/rubendiazzz/rubendiazzz/blob/master/devcard.svg" width="400" alt="Ruben Diaz's Dev Card"/></a>
