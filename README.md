@@ -27,7 +27,7 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
     <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
   </a>
 
-# Wakatime
+# Time Spent Coding
 <!--START_SECTION:waka-->
 
 ```rust
