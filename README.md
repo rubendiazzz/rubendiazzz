@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="./.img/yo_github_readme.png" alt="Rubén Díaz" width="30%"/><br><br>
+	<img src="./.img/yo_github_readme.png" alt="Rubén Díaz" width=200/><br><br>
 	
 	
  # Hi there, I'm Rubén Díaz 👋
@@ -19,12 +19,12 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 
   # Some of my Stats in GitHub
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=dracula" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
   </a>
 
   # Here is a quote for you
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+  <img height=150 align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes" />
 </div>
