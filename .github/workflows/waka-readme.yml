@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
-    - cron: "0 0 * * *"
+    # runs every 4 hours
+    - cron: "0 */4 * * *"
 
 jobs:
   update-readme:
