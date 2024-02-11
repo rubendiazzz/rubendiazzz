@@ -1,0 +1,25 @@
+name: Auto Commit README
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+
+      - name: Update README
+        run: |
+          echo "Updated at $(date)" >> README.md
+          git add README.md
+          git commit -m "Update README.md"
+          git push
