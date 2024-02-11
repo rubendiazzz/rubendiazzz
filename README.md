@@ -19,9 +19,8 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,react,astro,mysql,mongo)](https://skillicons.dev)
 
   # Stats
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height=150 align="center"  src="https://streak-stats.demolab.com?user=rubendiazzz&theme=nord&hide_border=true&border_radius=80&background=45%2C1E2945%2C000000 />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=rubendiazzz&theme=nord&hide_border=true&border_radius=80&background=45%2C1E2945%2C000000)](https://git.io/streak-stats)
+
 
 # Time Spent Coding
 <!--START_SECTION:waka-->
