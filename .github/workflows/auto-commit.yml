@@ -20,7 +20,7 @@ jobs:
 
       - name: Update README
         run: |
-          echo "Updated at $(date)" >> README.md
+          echo "-" >> README.md
           git add README.md
           git commit -m "Update README.md"
           git push
