@@ -18,12 +18,9 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
   # My Main Skills
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,react,astro,mysql,mongo)](https://skillicons.dev)
 
-  # Some of my Stats in GitHub
+  # Stats
   <a href="https://github.com/anuraghazra/github-readme-stats">
-	<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=rubendiazzz&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-	<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" />
+	<img height=150 align="center"  src="https://streak-stats.demolab.com?user=rubendiazzz&theme=nord&hide_border=true&border_radius=80&background=45%2C1E2945%2C000000 />
   </a>
 
 # Time Spent Coding
