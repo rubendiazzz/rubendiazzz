@@ -30,15 +30,16 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <!--START_SECTION:waka-->
 
 ```c
-From: 03 February 2024 - To: 10 February 2024
+From: 04 February 2024 - To: 11 February 2024
 
-Total Time: 1 hr 18 mins
+Total Time: 2 hrs 44 mins
 
-C          55 mins         >>>>>>>>>>>>>>>>>--------   68.53 %
-Makefile   15 mins         >>>>>--------------------   18.67 %
-Astro      5 mins          >>-----------------------   06.54 %
-Text       2 mins          >------------------------   03.43 %
-Other      2 mins          >------------------------   02.65 %
+C            1 hr 37 mins    >>>>>>>>>>>>>>-----------   57.50 %
+Astro        23 mins         >>>>---------------------   14.17 %
+Makefile     15 mins         >>-----------------------   08.95 %
+Bash         14 mins         >>-----------------------   08.30 %
+Text         7 mins          >------------------------   04.44 %
+Other        4 mins          >------------------------   02.53 %
 ```
 
 <!--END_SECTION:waka-->
