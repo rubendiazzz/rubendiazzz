@@ -9,7 +9,7 @@
   <br>
   <br>
   <a href="https://www.github.com/rubendiazzz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-the-badge&color=D14836&labelColor=E4405F" /></a>
+src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-the-badge&color=red" /></a>
 
 
   <a href="mailto:rubendfraga@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><br><br>
