@@ -12,8 +12,7 @@
 src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-the-badge&color=D14836&labelColor=E4405F" /></a>
 
 
-  <a href="mailto:rubendfraga@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-  <a href="https://www.instagram.com/ruubendiazz">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a><br><br>
+  <a href="mailto:rubendfraga@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><br><br>
 
   # My Main Skills
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,react,astro,mysql,mongo)](https://skillicons.dev)
