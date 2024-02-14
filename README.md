@@ -25,11 +25,17 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <!--START_SECTION:waka-->
 
 ```txt
+From: 06 February 2024 - To: 13 February 2024
+
+Total Time: 4 hrs 24 mins
+
 C            2 hrs 54 mins   ████████████████▒░░░░░░░░   64.76 %
 Astro        32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
 Makefile     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 Bash         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 Text         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+JavaScript   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
