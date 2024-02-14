@@ -25,11 +25,11 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <!--START_SECTION:waka-->
 
 ```txt
-C            2 hrs 2 mins    ███████████████░░░░░░░░░░   60.16 %
-Astro        32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Makefile     15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Bash         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Text         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+C            2 hrs 54 mins   ████████████████▒░░░░░░░░   64.76 %
+Astro        32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.24 %
+Makefile     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Bash         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Text         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
