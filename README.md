@@ -17,10 +17,6 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
   # My Main Skills
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,cpp,cs,react,nextjs,astro,mysql,mongo)](https://skillicons.dev)
 
-  # Stats
-  [![GitHub Streak](https://streak-stats.demolab.com?user=rubendiazzz&theme=nord&hide_border=true&border_radius=80&background=45%2C1E2945%2C000000)](https://git.io/streak-stats)
-
-
 # Time Spent Coding
 <!--START_SECTION:waka-->
 
