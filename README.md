@@ -21,19 +21,19 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 February 2024 - To: 20 February 2024
+From: 08 February 2024 - To: 21 February 2024
 
-Total Time: 22 hrs 27 mins
+Total Time: 23 hrs 34 mins
 
-JavaScript   14 hrs 39 mins  ████████████████▒░░░░░░░░   64.88 %
-C            4 hrs           ████▒░░░░░░░░░░░░░░░░░░░░   17.78 %
-CSS          51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-HTML         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
-Astro        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Text         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
-Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-Prisma       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JavaScript   14 hrs 39 mins  ███████████████▒░░░░░░░░░   61.76 %
+C            5 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
+CSS          51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+HTML         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Astro        32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Text         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Bash         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Makefile     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Prisma       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
 ```
 
 <!--END_SECTION:waka-->
