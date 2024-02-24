@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 February 2024 - To: 22 February 2024
+From: 08 February 2024 - To: 23 February 2024
 
 Total Time: 26 hrs 20 mins
 
