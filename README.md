@@ -22,7 +22,7 @@ src="https://img.shields.io/github/followers/rubendiazzz?logo=github&style=for-t
 # Time Spent Coding
 <!--START_SECTION:waka-->
 
-```rust
+```
 From: 08 February 2024 - To: 29 February 2024
 
 Total Time: 32 hrs 37 mins
@@ -40,73 +40,3 @@ Other         17 mins         ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 </div>
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
