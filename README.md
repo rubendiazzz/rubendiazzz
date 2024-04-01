@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 	<img height=200 width=200 src="./.img/yo_github_pfp.png" alt="Rubén Díaz" width=200/><br><br>
 	
 	
