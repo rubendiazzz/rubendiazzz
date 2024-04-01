@@ -2,7 +2,7 @@
 	<img height=200 width=200 src="./.img/yo_github_pfp.png" alt="Rubén Díaz" width=200/><br><br>
 	
 	
- <h3>Hi there, I'm Rubén Díaz 👋<\h3>
+# Hi there, I'm Rubén Díaz 👋
 
   Web Developer | Graphic Designer | Threat Analyst
   <br>
