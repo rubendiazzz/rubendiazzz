@@ -1,5 +1,5 @@
 <div align="left">
-	<img height=250 width=250 src="./.img/yo_github_pfp.png" alt="Rubén Díaz" /><br><br>
+	<img height=250 src="./.img/yo_github_pfp.png" alt="Rubén Díaz" /><br><br>
 	
 	
 # Hi there, I'm Rubén Díaz 👋
