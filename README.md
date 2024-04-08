@@ -4,7 +4,7 @@
 	
 # Hi there, I'm Rubén Díaz 👋
 
-  Web Developer | Graphic Designer | Threat Analyst
+  Web Developer | Graphic Designer | Cybersecurity Enthusiast
   <br>
   <br>
   I just love messing with things
