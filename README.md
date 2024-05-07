@@ -1,10 +1,8 @@
 <div align="left">
 	
-# Hi there, I'm Rubén Díaz 👋
+<h1>Hi there, I'm Rubén Díaz 👋</h1>
 
   <h2>Cybersecurity Threat Intelligence Analyst 24x7</h2>
-  <br>
-  <br>
   I just love messing with things
   <br>
   <br>
