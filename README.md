@@ -2,7 +2,7 @@
 
 <h1>Hi there, I'm Rubén Díaz 👋</h1>
 
-  <h2>Cybersecurity Threat Intelligence Analyst</h2>
+  <h2>Cybersecurity Threat Intel Analyst</h2>
   I just love messing with things
   <br>
   <br>
